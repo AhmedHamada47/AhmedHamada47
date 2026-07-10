@@ -7,23 +7,22 @@
 	<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedHamada47&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamada" /></p>
 </div>
 
-# 🌐 Socials:
 <div>
-	<a href="https://linkedin.com/in/ahmed-hamada47">
-		<img width="60" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
-	</a>
+  <a href="https://linkedin.com/in/ahmed-hamada47">
+    <img width="60" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
 
-	<a href="mailto:ahmed.hamada.ahmed.khashab@gmail.com">
-		<img width="60" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
-	</a>
+  <a href="mailto:ahmed.hamada.ahmed.khashab@gmail.com">
+    <img width="60" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
 
-	<a href="https://www.instagram.com/ahmed_hamada47/">
-		<img width="60" src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
-	</a>
+  <a href="https://www.instagram.com/ahmed_hamada47/">
+    <img width="60" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
 
-	<a href="https://codeforces.com/profile/AhmedHamada">
-		<img width="60" style="border-radius: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVe2v4KgMQjEiobpvDJUnHAOIAFEtomelptg&s" alt="codeforces"/>
-	</a>
+  <a href="https://codeforces.com/profile/AhmedHamada">
+    <img width="60" src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="Codeforces"/>
+  </a>
 </div>
 
  
