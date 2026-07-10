@@ -1,5 +1,4 @@
 <h1 align="center">This is Ahmed Hamada</h1>
-
 <div align="center">
 	<a href="https://linkedin.com/in/ahmed-hamada47">
 		<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&center=true&weight=1000&size=35&pause=1000&width=460&lines=Software+engineer;Competitive+programmer" 
@@ -34,3 +33,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 📈 Contribution Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamada47&theme=github-dark)
