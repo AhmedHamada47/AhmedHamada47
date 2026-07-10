@@ -7,24 +7,25 @@
 	<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedHamada47&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamada" /></p>
 </div>
 
-<div>
+## 🌐 Socials
+
+<p align="center">
   <a href="https://linkedin.com/in/ahmed-hamada47">
-    <img width="60" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>
 
   <a href="mailto:ahmed.hamada.ahmed.khashab@gmail.com">
-    <img width="60" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
   </a>
 
   <a href="https://www.instagram.com/ahmed_hamada47/">
-    <img width="60" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" />
   </a>
 
   <a href="https://codeforces.com/profile/AhmedHamada">
-    <img width="60" src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="Codeforces"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="55" />
   </a>
-</div>
-
+</p>
  
 # 💻 Tech Stack:
 <div>
