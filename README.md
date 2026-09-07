@@ -34,7 +34,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📈 Contribution Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamada47&theme=github-dark)
+![](https://github-activity-graph-ten.vercel.app/graph?username=AhmedHamada47&theme=github-dark)
