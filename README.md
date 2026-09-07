@@ -34,12 +34,7 @@
 </div>
 
 # 📊 GitHub Stats:
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedHamada47&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedHamada47&theme=github_dark" alt="Top Languages by Repo"/>
-</div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHamada47&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📈 Contribution Graph:
-![GitHub Contribution Graph](https://ghchart.rshah.org/0e75b6/AhmedHamada47)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamada47&theme=github-dark)
