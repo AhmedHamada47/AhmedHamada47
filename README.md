@@ -9,10 +9,10 @@
 
 # 🌐 Socials:	
 <div>
-	<a href="https://linkedin.com/in/ahmed-hamada47"><img width="60" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/><a/>
-	<a href="mailto:ahmed.hamada.ahmed.khashab@gmail.com"><img width="60" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/><a/>
-	<a href="https://www.instagram.com/ahmed_hamada47"><img width="60" src="https://skillicons.dev/icons?i=instagram" alt="insta"/><a/>
-	<a href="https://codeforces.com/profile/AhmedHamada"><img width="60" style="border-radius: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVe2v4KgMQjEiobpvDJUnHAOIAFEtomelptg&s" alt="linkedin"/><a/>
+	<a href="https://linkedin.com/in/ahmed-hamada47"><img width="60" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
+	<a href="mailto:ahmed.hamada.ahmed.khashab@gmail.com"><img width="60" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
+	<a href="https://www.instagram.com/ahmed_hamada47"><img width="60" src="https://skillicons.dev/icons?i=instagram" alt="insta"/></a>
+	<a href="https://codeforces.com/profile/AhmedHamada"><img width="60" style="border-radius: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVe2v4KgMQjEiobpvDJUnHAOIAFEtomelptg&s" alt="codeforces"/></a>
 </div>
  
 
@@ -34,7 +34,12 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedHamada47&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedHamada47&theme=github_dark" alt="Top Languages by Repo"/>
+</div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHamada47&theme=dark&hide_border=false)
 
 # 📈 Contribution Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamada47&theme=github-dark)
+![GitHub Contribution Graph](https://ghchart.rshah.org/0e75b6/AhmedHamada47)
