@@ -4,7 +4,7 @@
 		<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&center=true&weight=1000&size=35&pause=1000&width=460&lines=Software+engineer;Competitive+programmer" 
 		alt="Typing SVG" />
 	</a>
-	<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedHamada47&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamada" /></p>
+	<p align="center"><img src="https://komarev.com/ghpvc/?username=AhmedHamada47&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views" /></p>
 </div>
 
 # 🌐 Socials:	
