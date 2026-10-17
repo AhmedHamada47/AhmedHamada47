@@ -1,0 +1,44 @@
+name: Update streak card
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/**", ".github/workflows/streak.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: streak
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate streak card
+        run: node .github/scripts/streak.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          git add assets/streak.svg
+          if git diff --cached --quiet; then
+            echo "Streak card unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898233+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update streak card"
+          git push

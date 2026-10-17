@@ -37,5 +37,5 @@
 <p align="center">
   <img height="180" width="327" src="https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
   &nbsp;&nbsp;&nbsp;
-  <img height="180" width="457" src="https://streak-stats.demolab.com?user=AhmedHamada47&theme=github-dark-blue&border=e4e2e2&background=151515&hide_border=false" alt="GitHub Streak" />
+  <img height="180" width="457" src="assets/streak.svg" alt="GitHub Streak" />
 </p>
