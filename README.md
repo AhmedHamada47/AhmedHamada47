@@ -34,7 +34,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 📈 Contribution Graph:
-![](https://github-activity-graph-ten.vercel.app/graph?username=AhmedHamada47&theme=github-dark)
+<p>
+  <img height="180" src="https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+  <img height="180" src="https://streak-stats.demolab.com?user=AhmedHamada47&theme=dark&border=e4e2e2&background=151515" alt="GitHub Streak" />
+</p>
