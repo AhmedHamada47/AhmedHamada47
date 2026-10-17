@@ -4,7 +4,7 @@
 		<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&center=true&weight=1000&size=35&pause=1000&width=460&lines=Software+engineer;Competitive+programmer" 
 		alt="Typing SVG" />
 	</a>
-	<p align="center"><img src="https://komarev.com/ghpvc/?username=AhmedHamada47&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views" /></p>
+	<p align="left"><img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DAhmedHamada47&query=%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%5Blast%28%29%5D&label=&color=1f6feb&labelColor=151515&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xIDEyczQtOCAxMS04IDExIDggMTEgOC00IDgtMTEgOC0xMS04LTExLTh6Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjwvc3ZnPg%3D%3D" alt="Profile views" /></p>
 </div>
 
 # 🌐 Socials:	
