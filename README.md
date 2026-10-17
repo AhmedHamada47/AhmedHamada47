@@ -4,7 +4,7 @@
 		<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&center=true&weight=1000&size=35&pause=1000&width=460&lines=Software+engineer;Competitive+programmer" 
 		alt="Typing SVG" />
 	</a>
-	<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedHamada47&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamada" /></p>
+	<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedHamada47.AhmedHamada47&left_text=Profile%20views&left_color=555&right_color=0e75b6" alt="ahmedhamada" /></p>
 </div>
 
 # 🌐 Socials:	
@@ -36,5 +36,6 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img height="180" src="https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+  &nbsp;&nbsp;&nbsp;
   <img height="180" src="https://streak-stats.demolab.com?user=AhmedHamada47&theme=github-dark-blue&border=e4e2e2&background=151515&hide_border=false" alt="GitHub Streak" />
 </p>
