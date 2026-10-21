@@ -35,7 +35,15 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="180" width="327" src="https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img height="180" width="327" src="https://github-readme-stats-lovat-eight-59.vercel.app/api/top-langs/?username=AhmedHamada47&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+  </picture>
   &nbsp;&nbsp;&nbsp;
-  <img height="180" width="457" src="assets/streak.svg" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg" />
+    <img height="180" width="457" src="assets/streak-light.svg" alt="GitHub Streak" />
+  </picture>
 </p>

@@ -33,7 +33,7 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git add assets/streak.svg
+          git add assets/streak-*.svg
           if git diff --cached --quiet; then
             echo "Streak card unchanged"
             exit 0

@@ -88,7 +88,15 @@ const values = {
   LONGEST_RANGE: longest.length ? range(longest.start, longest.end) : "-",
 };
 
+// One card per GitHub theme; the README picks between them with <picture>.
+const themes = {
+  dark: { BG: "#151515", BORDER: "#E4E2E2", TEXT: "#FEFEFE", MUTED: "#9E9E9E", ACCENT: "#58A6FF", RING: "#1F6FEB" },
+  light: { BG: "#FFFFFF", BORDER: "#D0D7DE", TEXT: "#1F2328", MUTED: "#59636E", ACCENT: "#0969DA", RING: "#0969DA" },
+};
+
 const template = readFileSync(new URL("./streak-template.svg", import.meta.url), "utf8");
-const svg = template.replace(/\{\{(\w+)\}\}/g, (_, key) => values[key]);
-writeFileSync("assets/streak.svg", svg);
+for (const [name, colors] of Object.entries(themes)) {
+  const svg = template.replace(/\{\{(\w+)\}\}/g, (_, key) => ({ ...values, ...colors })[key]);
+  writeFileSync(`assets/streak-${name}.svg`, svg);
+}
 console.log(values);
